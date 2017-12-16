@@ -1,0 +1,7 @@
+login
+atm
+transfer
+1234566
+1234567
+1500
+logout

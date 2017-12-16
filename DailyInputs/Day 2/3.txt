@@ -1,0 +1,6 @@
+login
+atm
+deposit
+1234568
+3000
+logout
